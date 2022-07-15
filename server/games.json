@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "VALORANT",
+      "itemImageSrc": "https://i.pinimg.com/originals/7e/8e/ba/7e8eba8818971329dd1fdbaa8480b869.jpg"
+    },
+    {
+      "id": 2,
+      "name": "CSGO: Counter Strike Global Offensive",
+      "itemImageSrc": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2017/02/counter-strike-global-offensive-caratula.jpg?itok=Pg0NGDio"
+    },
+    {
+      "id": 3,
+      "name": "Rocket League",
+      "itemImageSrc": "https://tusresiduos.com/wp-content/uploads/2022/05/El-chat-de-voz-de-Rocket-League-no-funciona.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Dota 2",
+      "itemImageSrc": "https://images2.alphacoders.com/474/474206.jpg"
+    }
+  ]
+}
