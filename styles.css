@@ -1,7 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dosis:wght@200;500;600;800&family=Teko:wght@300;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dosis:wght@200;500;600;800&family=Poppins:wght@100;300;500;600&family=Teko:wght@300;600;700&display=swap');
 :root {
   --ducky-yellow: #EC9A29;
   --marine-blue: rgb(13, 19, 41);
+  --marine-blue-1: #10203B;
+  --marine-blue-2: #19325c;
   --red-berry: #D90429;
 }
 
@@ -13,6 +15,7 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 button:focus {
